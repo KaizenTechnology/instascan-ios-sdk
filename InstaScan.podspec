@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "InstaScan"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "InstaScan SDK for iOS applications"
   spec.description  = "InstaScan is a framework used for recognizing pincodes"
   spec.homepage     = "https://github.com/KaizenTechnology/instascan-ios-sdk"
